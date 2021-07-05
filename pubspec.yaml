@@ -8,9 +8,9 @@ environment:
   sdk: '>=2.0.0 <3.0.0'
 
 dependencies:
-  crypto: ^3.0.1
+  crypto: any
   intl: any
-  xml: ^4.3.0
+  xml: any
 
 
 dev_dependencies:
